@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap");
+
+.footer{
+    font-family: Space mono, sans-serif;
+    text-align: center;
+    width: 100vw;
+    bottom: 0;
+    height: 5%;
+    position: absolute;
+
+    img{
+        width: 1.6rem;
+        padding-bottom: 10px;
+    }
+}
